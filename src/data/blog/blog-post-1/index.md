@@ -8,9 +8,11 @@ tags: ['Photography']
 published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+_Весь вопрос в том, что правда ли все это редактируется именно здесь? и никакой ЦМС? Да как то так блять?! do consequat._.
 
-**Sed ut perspiciatis unde omnis**
+**Тут жирный типо**
+
+# Знаю что это должен быть H1 #
 
 ![Aliquet vel mollis nec](./cover.jpg)
 
